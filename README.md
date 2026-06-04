@@ -1,5 +1,19 @@
 # 🛒 Customer Segmentation with RFM Clustering
 
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+</div>
+
+---
+
 An **unsupervised machine learning** project to segment customers from an online retailer based on their purchase behavior, using the RFM model and clustering algorithms.
 
 ---
